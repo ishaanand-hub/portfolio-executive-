@@ -1,0 +1,27 @@
+/* Basic Reset */
+
+* {
+
+    margin: 0;
+
+    padding: 0;
+
+    box-sizing: border-box;
+
+}
+
+/* Body and Background */
+
+body {
+
+    font-family: 'Roboto', sans-serif;
+
+    background-color: #1c1c1c;
+
+    color: #fff;
+
+    overflow-x: hidden;
+
+}
+
+/* Intro Section */
